@@ -1,0 +1,1 @@
+This documentary app provides comprehensive coverage of all moon missions. It involves decoding and handling JSON data, adheres to the MVVM architecture, and showcases an aesthetically pleasing UI for an engaging user experience.
